@@ -1,0 +1,62 @@
+/* Styling Navbar */
+/******************/
+.navbar{
+    height: 70px;
+    border: 1px dashed black;
+}
+
+/* Styling Main */
+/******************/
+
+.main{
+    margin-top: 10px;
+    height: auto;
+    border: 1px dashed black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+div img{
+    height: 250px;
+    width: 250px;
+    margin: 10px;
+}
+
+/* Styling our form */
+.form{
+    
+    height: 100px;
+}
+label{
+    display: block;
+}
+input{
+    display: block;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    height: 20px;
+    width: 150px;
+    box-shadow: 5px 5px 20px #888888;
+    margin-bottom: 10px;
+}
+select{
+    margin-bottom: 10px;
+    width: 150px;
+}
+.form-wrap{
+    margin-top: 10px;
+    border: 1px dashed black;
+    height: 150px;
+    background-color: burlywood;
+
+}
+
+/* Styling Footer */
+
+.footer{
+    height: 70px;
+    margin-top:10px ;
+    border: 1px dashed black;
+}
